@@ -46,6 +46,10 @@
         window.Pack = Pack;
         window.PackItem = PackItem;
         
+        // Exposer les services
+        window.RecipeService = RecipeService;
+        window.ProfitabilityService = ProfitabilityService;
+        
         
         // ========================================
         // I18N & TRANSLATIONS
