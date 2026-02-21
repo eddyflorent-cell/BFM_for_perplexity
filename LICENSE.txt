@@ -1,0 +1,64 @@
+# LICENCE PROPRIÉTAIRE
+
+## BusinessFood Manager
+**Solution métier F&B professionnelle**
+
+---
+
+### Éditeur
+**Fotsi Global Services (FGS)**  
+© 2026 Tous droits réservés
+
+### Produit
+**BusinessFood Manager** v55.6-POLISH  
+Solution de gestion pour professionnels de la restauration et du F&B (Food & Beverage)
+
+---
+
+## CONDITIONS D'UTILISATION
+
+### 1. Propriété intellectuelle
+Ce logiciel et toute sa documentation sont la propriété exclusive de **Fotsi Global Services (FGS)**.
+
+### 2. Droits accordés
+La licence d'utilisation est accordée au client final uniquement pour :
+- Usage commercial dans le cadre de son activité de restauration
+- Installation sur ses propres équipements
+- Utilisation par ses employés autorisés
+
+### 3. Restrictions
+Il est strictement interdit de :
+- ❌ Redistribuer le logiciel à des tiers
+- ❌ Revendre ou sous-licencier le logiciel
+- ❌ Modifier le code source sans autorisation écrite
+- ❌ Effectuer de l'ingénierie inverse
+- ❌ Retirer les mentions de copyright
+
+### 4. Garantie
+Le logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou implicite.
+
+### 5. Limitation de responsabilité
+**Fotsi Global Services (FGS)** ne peut être tenu responsable de :
+- Perte de données
+- Interruption d'activité
+- Dommages directs ou indirects liés à l'utilisation du logiciel
+
+### 6. Support
+Le support technique est fourni selon les termes du contrat de licence signé avec le client.
+
+---
+
+## CONTACT
+
+**Fotsi Global Services (FGS)**  
+Solution métier F&B professionnelle
+
+Pour toute question concernant la licence :
+- Contactez votre interlocuteur commercial FGS
+- Consultez votre contrat de licence
+
+---
+
+**Version du document :** 1.0  
+**Date :** Février 2026  
+**Applicable à :** BusinessFood Manager v55.6 et versions ultérieures
